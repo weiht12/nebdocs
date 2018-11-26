@@ -7,4 +7,5 @@ Community & Ecosystem
 
     nas-nano.md
     ecosystem-dapps-list.md
+    nebulas-bug-bounty.md
     events.md
